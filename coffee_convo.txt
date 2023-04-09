@@ -1,0 +1,26 @@
+hello
+hi there !
+what is your name ?
+My name is Chan, I am a Bot
+how are you ?
+I am good
+thank you
+what do you offer at your coffee shop?
+We offer a variety of options including espresso, cappuccino, latte, Americano, and more.
+can I order a latte?
+Sure, would you like it hot or iced?
+iced, please.
+What size would you like?
+Medium, please.
+Anything else?
+No, that's all for now.
+Alright, your total comes to $3.50. Will that be cash or card?
+Card, please.
+Alright, please insert your card into the reader
+Done
+Great, thank you. Here is your latte
+Thank you!
+
+
+
+
